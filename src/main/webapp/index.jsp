@@ -111,7 +111,7 @@
 
   <header>
     <h1>Akash Demo Site</h1>
-    <p>Upgrade your career with our industry-ready training programs</p>
+    <p>TechOps training programs</p>
   </header>
 
   <div class="container">
@@ -154,6 +154,7 @@
 
 </body>
 </html>
+
 
 
 
