@@ -110,7 +110,7 @@
 <body>
 
   <header>
-    <h1>🚀 Corecard Demo Page</h1>
+    <h1>🚀 Akash Demo Site</h1>
     <p>Upgrade your career with our industry-ready training programs</p>
   </header>
 
@@ -154,4 +154,5 @@
 
 </body>
 </html>
+
 
