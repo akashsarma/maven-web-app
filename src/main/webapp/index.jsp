@@ -111,7 +111,7 @@
 
   <header>
     <h1>Config Demo Site</h1>
-    <p>TechOps training programs</p>
+    <p>training programs</p>
   </header>
 
   <div class="container">
@@ -154,6 +154,7 @@
 
 </body>
 </html>
+
 
 
 
